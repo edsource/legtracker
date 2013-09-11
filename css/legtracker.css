@@ -1,0 +1,130 @@
+/* ------- MAIN STYLE ------- */
+
+
+	#tracker-container {
+		width:620px !important;
+		margin:0 auto 30px auto !important;
+		overflow:auto;
+	}
+	
+			#tracker-container p {
+				font-family:"helvetica neue",arial, san-serif;
+				font-size:13px;
+				font-weight:300;
+				text-align:center;
+				margin:5px 0 0 0;
+			}
+			
+			#tracker-container a:hover {
+				color:#8c9b93;
+			}
+	
+	#browser-warn {
+		display:none;
+		height:850px;
+		width:100%;
+		z-index:1000;
+		text-align:center;
+	}		
+/* ------- HEADER STYLE ------- */
+	
+	#tracker-header {
+		width:451px;
+		margin:0;
+		border-top:2px solid #4c5b52;
+		border-right:2px solid #4c5b52;
+		border-left:2px solid #4c5b52;
+	}
+
+			#tracker-header h2 {
+				text-align:center;
+				font-weight:400;
+				font-family:lato, helvetica, san-serif;
+				margin:5px 0 0 0;
+				color:#3B4440;
+				font-size:28px;
+			}
+			
+			#tracker-header a {
+				text-decoration:none;
+			}
+			
+			#tracker-header p {
+				padding:0 0 10px 0;
+				margin:10px 10px 0 10px;
+			}
+			
+			#tracker-header p:last-of-type {
+				font-weight:400;
+			}
+
+/* ------- LOADING STYLE ------- */
+	
+	#loading {
+		height:auto;
+	}
+	
+		#loading h2 {
+			font-size:72px;
+			text-align:center;
+			font-family:lato, helvetica, san-serif;
+		}
+	
+	
+/* ------- BILL CONTENT STYLE ------- */
+			
+	#tracker-content {
+		float:left;
+		width:448px;
+		border:2px solid #4c5b52;
+		padding:0 3px 0 0;
+	}	
+	
+			
+	
+			#tracker-content p {
+				text-align:left;
+				font-size:12px;
+				color:#8c9693;
+				margin:0;
+			}
+			
+			#tracker-content a {
+				text-align:left;
+				text-decoration:none;
+				color:#3B4440;
+				font-weight:700;
+				margin:0;
+				font-size:16px;
+				font-family:lato,san-serif;
+				 cursor:pointer;
+			}
+			
+			
+			.law-row {
+				border-bottom:1px dashed #8c9b93;
+				padding:5px 0 5px 10px;
+				width:430px;
+				height:33px;
+			}
+				.law-row:last-of-type {
+					border-bottom:none;
+				}
+				
+			.law-name {
+				border-right:1px solid #8c9693;
+				width:250px;
+				float:left;
+			}
+			
+			.law-status {
+				float:right;
+				width:179px;
+			}
+			
+			.law-status img {
+				width:25px;
+				margin:0 0 0 15px;
+				cursor:pointer;
+			}
+			
