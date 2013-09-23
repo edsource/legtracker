@@ -38,12 +38,12 @@ Doing this step-by-step for those who aren't entirely familiar with code.
 The LegTracker relies the following javascript libraries. Each of these libraries are contained inside the js folder, though you may want to check for the latest version as the files in this folder may be out of date. 
 
 <ul>
-	<li><strong><a href="http://jquery.com/">jQuery</a></strong> Absolute must for both the code I wrote and the code for the other javascript libraries attached to this project.</li>
+	<li><strong><a href="http://jquery.com/">jQuery:</a></strong> Absolute must for both the code I wrote and the code for the other javascript libraries attached to this project.</li>
 	<li><strong><a href="https://github.com/jsoma/tabletop">Tabletop.js:</a></strong> Jonathan Soma deserves a freaking medal for this beautiful assist. This library will take the data on a Google Spreadsheet and translate it into workable data within your project. This makes it where you don't have to go into the code every time you want to change your data. Totally time saver.</li>
 	<li><strong><a href="https://github.com/jrue/CalTip">CalTip:</a></strong> Written by Jeremy Rue, CalTip is a simple tooltip that is highly customizable. I use this for the scroll over tooltips for the icons.</li>	
 </ul>
 
-If you want to go the extra mile to ensure there is full access to this interactive, you may want to use <strong><a href="https://github.com/jsoma/flatware">Flatware.js</a></strong>, a library Jonathan Soma created as a work around for the Google Spreadsheet glitch that breaks tabletop.js. In short, if someone has logged into their Google account on a browser and is then timed out due to inactivity, it breaks projects that are dependent on accessing a Google Spreadsheet. Google is in the process of fixing this, but you should be aware of this issue and a solution to it. Better safe than sorry. 
+If you want to go the extra mile to ensure there is full access to this interactive, you may want to use <strong><a href="https://github.com/jsoma/flatware">Flatware.js</a></strong>, a library Jonathan Soma created as a workaround for the Google Spreadsheet glitch that breaks tabletop.js. In short, if someone has logged into their Google account on a browser and is then timed out due to inactivity, it breaks projects that are dependent on accessing a Google Spreadsheet. Google is in the process of fixing this, but you should be aware of this issue and a solution to it. Better safe than sorry. 
 
 <h1>To-Do</h1>
 A fluid list:
