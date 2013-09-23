@@ -8,6 +8,8 @@ As I built this project, I figured the LegTracker may be of use to other organiz
 
 <a href="http://www.edsource.org/today/2013/37469/37469">A live example of the LegTracker.</a>
 
+<a href="file:///Users/brentzupp/Google%20Drive/EdSource/Web%20Projects/LegTracker/legtracker.html">Example that shows various bill statuses and icons.</a>.
+
 <h1>How it Works</h1>
 
 LegTracker pulls in data from a Google Spreadsheet to populate the graphic. You input all the particulars of a bill, such as the name, description, and a URL for more information into the spreadsheet. Then, as the bill makes its way through the legislative labyrinth, you can indicate the status on the spreadsheet which will then translate into one of many icons I made, some using public domain svg files from <a href="http://thenounproject.com">Noun Project</a>. LegTracker will then automatically sort the icons based on the status of the bill and what legislative chamber originally proposed the bill. A tooltip allows someone to hover over an icon to get more information about the bill's status. And there you go.
