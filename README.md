@@ -84,9 +84,9 @@ Definition of columns on the the "Main" sheet on the spreadsheet, also the first
 		</ul></li>
 	<strong><li>Executive: </strong>This reflects the executive who signs or vetoes bills (Governor in states, and the president at federal level).</li>
 		<ul>
-			<strong><li><img width="50" src="http://edsource.org/today/wp-content/iframe/topic-features/assets/bill.png"> Enroll: </strong>This means the bill passed both chambers and is awaiting a decision by the executive on whether to veto or sign the bill.</li>
-			<strong><li><img width="50" src="http://edsource.org/today/wp-content/iframe/topic-features/assets/bill.png"> Veto: </strong>The executive has vetoed the bill.</li>
-			<strong><li><img width="50" src="http://edsource.org/today/wp-content/iframe/topic-features/assets/bill.png"> Signed: </strong>The executive has signed the bill into law.</li>
+			<strong><li><img width="50" src="http://edsource.org/today/wp-content/iframe/topic-features/assets/enroll.png"> Enroll: </strong>This means the bill passed both chambers and is awaiting a decision by the executive on whether to veto or sign the bill.</li>
+			<strong><li><img width="50" src="http://edsource.org/today/wp-content/iframe/topic-features/assets/veto.png"> Veto: </strong>The executive has vetoed the bill.</li>
+			<strong><li><img width="50" src="http://edsource.org/today/wp-content/iframe/topic-features/assets/gov-signed.png"> Signed: </strong>The executive has signed the bill into law.</li>
 		</ul></li>
 </ul>
 
