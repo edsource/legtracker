@@ -8,7 +8,7 @@ As I built this project, I figured the LegTracker may be of use to other organiz
 
 <a href="http://www.edsource.org/today/2013/37469/37469">A live example of the LegTracker.</a>
 
-<a href=http://edsource.org/today/wp-content/iframe/topic-features/legtracker.html">Example that shows various bill statuses and icons.</a>.
+<a href="http://edsource.org/today/wp-content/iframe/topic-features/legtracker.html">Example that shows various bill statuses and icons.</a>.
 
 <h1>How it Works</h1>
 
