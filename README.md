@@ -1,6 +1,9 @@
 LegTracker
 ==========
-<img width="200" src="http://edsource.org/today/wp-content/iframe/topic-features/assets/edtrack.png">
+
+<h1><strong>NOTE: NO LONGER WORKING ON THIS. I HAVE AN <a href="https://github.com/bayreporta/leg-tracker20">IMPROVED VERSION HERE</a></strong></h1>
+
+<img width="200" src="http://edsource.org/wp-content/iframe/topic-features/assets/edtrack.png">
 
 Hi! This is my first major Github project, so bear with me. Here at <a href="http://edsource.org">EdSource</a>, we cover the California education scene from the classroom to the Capitol. We also track education bills making their way through the California legislature. The idea came up to build an interactive that could display the current status of bills we were tracking. This is how LegTracker was born (though we call it EdTracker).
 
